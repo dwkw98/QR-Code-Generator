@@ -8,9 +8,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-QR--Code--Generator-%23181717?logo=github)](https://github.com/dwkw98/QR-Code-Generator)
 [![二维码生成器](https://img.shields.io/badge/二维码生成器-green?logo=github&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator/releases)
 [![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-%23121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator/releases)
-[![Obtainium](https://img.shields.io/badge/Obtainium-二维码生成器-%235A20BC?style=for-the-badge&logo=obtainium&logoColor=white)](https://github-store.org/app?repo=dwkw98/QR-Code-Generator)
 [![Komi Store](https://img.shields.io/badge/Komi%20Store-二维码生成器-%23121212?style=for-the-badge&logo=github&logoColor=white)](https://github-store.org/app?repo=dwkw98/QR-Code-Generator)
-[![Repo Store](https://img.shields.io/badge/Repo%20Store-二维码生成器-%231A1A1A?style=for-the-badge&logo=git&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator)
 
 
 
