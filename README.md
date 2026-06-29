@@ -34,5 +34,6 @@
 前往本仓库的 [Releases](https://github.com/dwkw98/QR-Code-Generator/releases) 页面，下载最新版本的 APK 安装包，在手机上安装即可使用。
 （如果有电脑端的用户，请克隆项目，具体步骤请搜教程）
 
+[project](https://github.com/dwkw98/QR-Code-Generator)
 ---
 
