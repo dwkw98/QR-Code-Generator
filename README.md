@@ -3,7 +3,10 @@
 一个轻量级文字二维码生成器，基于 Python + Kivy 开发，支持 Android 与桌面平台。
 
 只需输入文字，一键生成二维码，扫码即可读取内容。
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
+[![Repo](https://img.shields.io/badge/Repo-QR-Code-Generator-blue)](https://github.com/dwkw98/QR-Code-Generator)
+
 ---
 
 ## 📸 主界面
