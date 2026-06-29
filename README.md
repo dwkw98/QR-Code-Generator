@@ -5,7 +5,8 @@
 只需输入文字，一键生成二维码，扫码即可读取内容。
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
-[![Repo](https://img.shields.io/badge/Repo-QR--Code--Generator-black)](https://github.com/dwkw98/QR-Code-Generator)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-QR--Code--Generator-%23181717?logo=github)](https://github.com/dwkw98/QR-Code-Generator)
+
 
 ---
 
