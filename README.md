@@ -1,3 +1,8 @@
+<div align="center">
+<img src="icon.png" width="220" alt="logo">
+<h2 style="color:#2E8B57">QR Code Generator</h2>
+</div>
+
 # QR-Code-Generator
 
 一个轻量级文字二维码生成器，基于 Python + Kivy 开发，支持 Android 与桌面平台。
@@ -9,9 +14,6 @@
 [![二维码生成器](https://img.shields.io/badge/二维码生成器-green?logo=github&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator/releases)
 [![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-%23121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator/releases)
 [![Komi Store](https://img.shields.io/badge/Komi%20Store-二维码生成器-%23121212?style=for-the-badge&logo=github&logoColor=white)](https://github-store.org/app?repo=dwkw98/QR-Code-Generator)
-
-
-
 
 ---
 
@@ -45,4 +47,3 @@
 
 [project](https://github.com/dwkw98/QR-Code-Generator)
 ---
-
