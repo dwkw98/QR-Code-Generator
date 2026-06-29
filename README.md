@@ -4,7 +4,6 @@
 
 只需输入文字，一键生成二维码，扫码即可读取内容。
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
-
 ---
 
 ## 📸 主界面
