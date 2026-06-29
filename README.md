@@ -1,6 +1,6 @@
 <div align="center">
 <img src="icon.png" width="220" alt="logo">
-<h2 style="color:#2E8B57">QR Code Generator</h2>
+<h2 style="color:#3CB371">QR Code Generator</h2>
 </div>
 
 # QR-Code-Generator
