@@ -12,6 +12,11 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-QR--Code--Generator-%23181717?logo=github)](https://github.com/dwkw98/QR-Code-Generator)
 [![二维码生成器](https://img.shields.io/badge/二维码生成器-green?logo=github&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator/releases)
+
+
+---
+
+## 商店下载
 [![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-%23121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwkw98/QR-Code-Generator/releases)
 [![Komi Store](https://img.shields.io/badge/Komi%20Store-二维码生成器-%23121212?style=for-the-badge&logo=github&logoColor=white)](https://github-store.org/app?repo=dwkw98/QR-Code-Generator)
 
